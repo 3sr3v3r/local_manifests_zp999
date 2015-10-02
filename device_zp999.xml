@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/zopo/zp999" name="3sr3v3r/android_device_zopo_zp999" remote="github"/>
+  <project path="vendor/zopo/zp999" name="3sr3v3r/android_vendor_zopo_zp999" remote="github"/>
+
+
+  <remove-project name="platform/frameworks/testing" />
+ 
+</manifest>
